@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.img{
+    background-image: url(nature.webp);
+    height: 500px;
+    width: 850px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 220px;
+    /* padding-top: 5px; */
+    margin-top: 3px;
+    
+}
+.one{
+    border: 1px solid;
+    height: 90px;
+    width: 700px;
+    margin-left: 60px;
+    margin-top: 10px;
+    position: absolute;
+     color: white;
+    background-color: white;
+    /* opacity: 0.5; */
+    border-radius: 5px;
+    /* background: opacity(0.5); */
+    
+}
+.two{
+    border: 1px solid;
+    height: 90px;
+    width: 700px;
+    margin-left: 60px;
+    margin-top: 115px;
+    position: absolute;
+     color: white;
+    background-color: white;
+    /* opacity: 0.5; */
+    border-radius: 5px;
+    
+}
+.three{
+    border: 1px solid;
+    height: 90px;
+    width: 700px;
+    margin-top: 220px;
+    margin-left: 60px;
+    position: absolute;
+    color: white;
+    background-color: white;
+    /* opacity: 0.5; */
+    border-radius: 5px;
+}
+.four{
+    margin-left: 550px;
+    margin-top: -30px;
+    border-radius: 5px;
+    /* height: 60px; */
+}
+.png{
+    color: black;
+    margin-left: 6px;
+    margin-top: 15px;
+     font-family: "poppins", sans-serif;
+
+}
+.png1{
+     color: black;
+    margin-left: 6px;
+    /* margin-top: 5px; */
+     font-family: "poppins", sans-serif;
+    font-size: 10px;
+    margin-top: 4px;
+    position: absolute;
+
+}
+.abc{
+    font-family: "poppins", sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 10px;
+}
